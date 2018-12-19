@@ -1,0 +1,12 @@
+11
+OQ:Nom ?
+OQ:Prenom ?
+OQ:Login ?
+CQ:Etes vous majeur ?
+A:Oui
+A:Non
+CQ:Selon vous, quelle est la difficulte de ce projet ?
+A:Trop facile
+A:Ca reste jouable
+A:Gros challenge en perspective
+A:Franchement : pas cool !
